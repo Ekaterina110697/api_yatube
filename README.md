@@ -17,7 +17,7 @@
 
 Клонировать репозиторий и перейти в него в командной строке:
 ```
-git clone https://github.com/apolwow/api_final_yatube.git
+git clone git@github.com:Ekaterina110697/api_yatube.git
 cd api_final_yatube
 ```
 #### Создать и активировать виртуальное окружение:
