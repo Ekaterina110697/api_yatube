@@ -20,7 +20,7 @@
 git clone git@github.com:Ekaterina110697/api_yatube.git
 ```
 ```
-cd api_final_yatube
+cd api_yatube
 ```
 #### Создать и активировать виртуальное окружение:
 ```
